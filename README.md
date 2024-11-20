@@ -79,3 +79,12 @@ Copy code
 git commit -m "Description of changes"
 git push origin feature-name
 Create a pull request for review.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For any inquiries, feel free to reach out at:
+
+Email: your-email@example.com
+GitHub: YourUsername
+Enjoy exploring the Library Management System! 😊
