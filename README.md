@@ -41,7 +41,7 @@ This **Library Management System** is a C++ console-based application designed t
 3. **Book Borrowing**: Users can borrow books if available and balance permits.
 
 ### Admin Operations:
-1. **Login**: Admin logs in using predefined credentials (`admin/Admin@123`).
+1. **Login**: Admin logs in using predefined credentials (`user-admin/Password-Admin@123`).
 2. **Manage Books**:
    * Add, edit, or remove books from the system.
 3. **View Users**:
