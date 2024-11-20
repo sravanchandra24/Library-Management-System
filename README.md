@@ -60,36 +60,30 @@ This **Library Management System** is a C++ console-based application designed t
 
 ## Sample Output
 ### Welcome Screen:
-Welcome! Choose an option:
+* Welcome! Choose an option:
 
-Create Account
-Login as User
-Login as Admin
-Exit
-shell
-Copy code
-
+1. * Create Account
+2. * Login as User
+3. * Login as Admin
+0. * Exit
+   * 
 ### Admin Menu:
-Welcome Admin!
+### Welcome Admin!
 
-Add Book
-Modify Book Details
-Remove Book
-List All Books
-View All Users
-Logout
-shell
-Copy code
+1. * Add Book
+2. * Modify Book Details
+3. * Remove Book
+4. * List All Books
+5. * View All Users
+0. * Logout
 
 ### User Menu:
-Welcome, <User Name>!
+### Welcome, <User Name>!
 
-View Balance
-Deposit Funds
-Borrow Book
-Logout
-markdown
-Copy code
+1. * View Balance
+2. * Deposit Funds
+3. * Borrow Book
+0. * Logout
 
 ## System Requirements
 * **Language**: C++ (Standard: C++11 or later).
