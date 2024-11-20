@@ -1,9 +1,9 @@
-#Library Management System#
-Project Description
+#Library Management System
+###Project Description
 This Library Management System is a C++ console application designed to manage a library's operations. It supports functionality for administrators and users, including book management, account management, and transaction handling. The project demonstrates fundamental programming concepts such as arrays, strings, file handling, and object-oriented programming while providing practical features like user authentication and data validation.
 
-Features
-Admin Features
+###Features
+**Admin Features**
 Login: Secure admin authentication with username and password.
 Add Books: Add new books to the library database with details like title, author, and ISBN.
 Remove Books: Remove books from the library database using their ISBN.
