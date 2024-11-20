@@ -66,7 +66,8 @@ This **Library Management System** is a C++ console-based application designed t
 2. * Login as User
 3. * Login as Admin
 0. * Exit
-   * 
+  
+    
 ### Admin Menu:
 ### Welcome Admin!
 
@@ -78,7 +79,7 @@ This **Library Management System** is a C++ console-based application designed t
 0. * Logout
 
 ### User Menu:
-### Welcome, <User Name>!
+### Welcome, User Name!
 
 1. * View Balance
 2. * Deposit Funds
